@@ -1,4 +1,4 @@
-# My RubeGoldbergMashine
+# My Rube Goldberg Mashine
 
 The video is still coming but here are screenshots:
 <img width="845" alt="Screenshot 2024-11-29 at 10 58 30 PM" src="https://github.com/user-attachments/assets/e6c1c8fc-a1a0-46cf-ad7f-a36cd4368a74">
